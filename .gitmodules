@@ -1,6 +1,6 @@
 [submodule "dotvim"]
 	path = dotvim
-	url = https://github.com/hfarrow/dotvim.git
+	url = git@github.com:hfarrow/dotvim.git
 [submodule "dotbash"]
 	path = dotbash
-	url = https://github.com/hfarrow/dotbash.git
+	url = git@github.com:hfarrow/dotbash.git
