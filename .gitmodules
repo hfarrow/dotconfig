@@ -4,3 +4,7 @@
 [submodule "dotbash"]
 	path = dotbash
 	url = git@github.com:hfarrow/dotbash.git
+[submodule "dotneovim"]
+	path = dotneovim
+	url = git@github.com:hfarrow/dotneovim.git
+	branch = master
